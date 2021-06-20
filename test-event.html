@@ -4,7 +4,7 @@
     </head>
     <body>
         <header>
-            <img class="logo" src="logo2.png">
+            <img class="logo" src="logo6.png">
             <nav>
                 <li class="active"><a href="">Schedule</a></li>
                 <li><a href="">Speakers</a></li>
@@ -39,6 +39,11 @@
                     <img alt="Chegg" src="logo5.png">
                     <h3>Chegg - Keeps students first</h3>
                 </li>
+            </ul>
+        </section>
+         <hr class="gradient">
+        <section>
+           <ul class="speaker-list">
                 <li>
                     <img alt="Angie Jones" src="image/Nicole_Forsgren_Headshot.jpg">
                     <h3>Visual tests on every pull request</h3>
@@ -97,8 +102,8 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
   // Output the result in an element with id="demo"
-  document.getElementById("demo").innerHTML = days + "days " + hours + "hours "
-  + minutes + "mins " + seconds + "secs ";
+  document.getElementById("demo").innerHTML = days + " days - " + hours + " hours - "
+  + minutes + " mins - " + seconds + "secs - ";
     
   // If the count down is over, write some text 
   if (distance < 0) {
