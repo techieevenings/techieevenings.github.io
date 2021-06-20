@@ -192,7 +192,7 @@ section.blog .author img {
     border-radius: 50%;
 }
 header .logo {
-    width: 180px;
+    width: 50px;
     float: left;
     margin-right: 15px;
     margin-top: 8px;
@@ -410,10 +410,7 @@ ul.speaker-list li {
     border-bottom: 1px solid rgba(66,82,109,0.5);
 }
 ul.speaker-list li img {
-    width: 110px;
-    border-radius: 50%;
-    /* border: 3px solid #FFE57F; */
-    border: 3px solid #FF7170;
+    width: 200px;
 }
 ul.speaker-list li h3 {
     text-align: center;
@@ -433,7 +430,7 @@ ul.speaker-list li h5 {
     color: #B5BFD2;
 }
 section.speakers h1 {
-    font-size: 64px;
+    font-size: 30px;
     line-height: 96px;
     margin-top: 45px;
     margin-bottom: 25px;
