@@ -221,6 +221,7 @@ section.speakers {
     display: inline-block;
     width: 100%;
     height: auto;
+    background: url('background.png') center/100% auto no-repeat;
     background-color: #040303;
 }
 section.attends {
@@ -229,7 +230,7 @@ section.attends {
     width: 100%;
     height: auto;
     background-color: #040303;
-    background-image: url('shape-bl.webp');
+    background-image: url('background.png');
     background-position: bottom/left;
     background-attachment: cover;
     background-repeat: no-repeat;
@@ -258,7 +259,7 @@ section.content {
     width: 100%;
     height: 500px;
     background-color: #040303;
-    background-image: url('pattern-light.svg');
+    background-image: url('background.png');
     background-position: center;
     background-attachment: cover;
     background-repeat: no-repeat;
