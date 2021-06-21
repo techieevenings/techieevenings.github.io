@@ -330,7 +330,7 @@ section.subscribe {
     width: 100%;
     height: auto;
     z-index: 1;
-    background: url(cta-bg.png) center/100% auto no-repeat;
+    background: url(background.png) center/100% auto no-repeat;
     padding: 120px 0;
 }
 section.subscribe p {
