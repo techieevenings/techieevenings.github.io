@@ -398,7 +398,7 @@ ul.faq-question .faq-content {
 ul.speaker-list {
     width: 100%;
     float: left;
-    margin-bottom: 19px;
+/*     margin-bottom: 19px; */
 }
 ul.speaker-list li {
     width: 100%;
@@ -432,8 +432,8 @@ ul.speaker-list li h5 {
 section.speakers h1 {
     font-size: 30px;
     line-height: 96px;
-    margin-top: 45px;
-    margin-bottom: 25px;
+/*     margin-top: 45px; */
+/*     margin-bottom: 25px; */
 }
 section.profile {
     float: left;
